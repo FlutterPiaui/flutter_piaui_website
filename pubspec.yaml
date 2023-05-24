@@ -13,6 +13,7 @@ dependencies:
   flutter_modular: ^6.0.0-alpha.5
   mobx: ^2.2.0
   flutter_mobx: ^2.0.6+5
+  google_fonts: ^4.0.4
 
 dev_dependencies:
   flutter_test:
