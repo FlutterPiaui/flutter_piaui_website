@@ -21,7 +21,8 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   mobx_codegen: ^2.3.0
   # modular_test: ^2.0.0
-
+assets:
+  - assets/images/
 flutter:
   uses-material-design: true
 
